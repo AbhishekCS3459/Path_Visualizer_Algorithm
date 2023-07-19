@@ -1,5 +1,3 @@
-Certainly! Here's the updated information with the new link for Pathfinding Visualizer:
-
 **Personal Information:**
 - Name: Abhishek Kumar Verma
 - GitHub Repo: [Detailed_PathFinding_Visualizer](https://github.com/AbhishekCS3459/Detailed_PathFinding_Visualizer)
