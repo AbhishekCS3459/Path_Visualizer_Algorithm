@@ -3,7 +3,7 @@
 - GitHub Repo: [Detailed_PathFinding_Visualizer](https://github.com/AbhishekCS3459/Detailed_PathFinding_Visualizer)
 
 **Pathfinding Visualizer:**
-- Introduction: Welcome to Pathfinding Visualizer! This application was built by Abhishek Kumar Verma to visualize various pathfinding algorithms in action. The primary goal was to create a tool for users to explore and understand the workings of these algorithms through interactive visualization.
+- Introduction: Welcome to Pathfinding Visualizer! This application was built by me to visualize various pathfinding algorithms in action. The primary goal was to create a tool for users to explore and understand the workings of these algorithms through interactive visualization.
 
 - Access Link: You can access the Pathfinding Visualizer using this link: [Pathfinding Visualizer](https://visualizeyourpath.netlify.app/) (please use Google Chrome for the best experience).
 
@@ -16,7 +16,7 @@ The Pathfinding Visualizer supports the following algorithms:
 
 3. **Greedy Best-first Search** (weighted): A faster and more heuristic-heavy version of A* that does not guarantee the shortest path.
 
-4. **Swarm Algorithm** (weighted): Co-developed by Abhishek Kumar Verma and Hussein Farah, the Swarm Algorithm combines features of Dijkstra's Algorithm and A* Search. It converges to the target node like A* while exploring neighboring nodes surrounding the start node, similar to Dijkstra's. It does not guarantee the shortest path and uses heuristics to balance the difference in distances between nodes closer to the start and target nodes.
+4. **Swarm Algorithm** (weighted): A swarm algorithm is a type of optimization algorithm inspired by the collective behavior of social swarms or groups of living organisms, such as ants, bees, birds, or fish. These algorithms are used to solve complex problems by simulating the interactions between individual agents within a population, where each agent makes decisions based on its local knowledge and the influence of neighboring agents. The collective intelligence of the swarm emerges from the interactions of these individual agents.
 
 5. **Convergent Swarm Algorithm** (weighted): A faster, more heuristic-heavy version of the Swarm Algorithm that also does not guarantee the shortest path.
 
@@ -27,7 +27,7 @@ The Pathfinding Visualizer supports the following algorithms:
 8. **Depth-first Search** (unweighted): A less optimal algorithm for pathfinding that does not guarantee the shortest path.
 
 **Maze Generation Algorithm:**
-Apart from pathfinding algorithms, Abhishek Kumar Verma implemented a **Recursive Division** Maze Generation algorithm.
+Apart from pathfinding algorithms, I implemented a **Recursive Division** Maze Generation algorithm.
 
 **About the Swarm Algorithm:**
 A swarm algorithm is a type of optimization algorithm inspired by the collective behavior of social swarms or groups of living organisms, such as ants, bees, birds, or fish. These algorithms are used to solve complex problems by simulating the interactions between individual agents within a population, where each agent makes decisions based on its local knowledge and the influence of neighboring agents. The collective intelligence of the swarm emerges from the interactions of these individual agents.
